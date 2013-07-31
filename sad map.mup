@@ -6,6 +6,10 @@
     "1": {
       "title": "you are me?",
       "id": 2
+    },
+    "-1": {
+      "title": "you are dead",
+      "id": 3
     }
   }
 }
