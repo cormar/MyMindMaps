@@ -1,5 +1,11 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "hihihi",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "what the heck?",
+      "id": 2
+    }
+  }
 }
